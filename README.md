@@ -21,4 +21,10 @@ To provide a better understanding of the Canvas Connect application, here is a s
 
 ##Main Interface
 
-![Main Interface](screenshots/Home1.png)
+![Main Interface](screenshots/Home.png)
+
+##Guess Number Interface
+
+![Guess Number Interface](screenshots/Guess.png)
+
+![Guess Number Interface](screenshots/Guess1.png)
